@@ -24,9 +24,9 @@ This repository contains a **single Python script** that handles:
 --- 
 ## Results for Top 3 configurations for Different Network Architectures 
 *Validation and training accuracy over number of filters, filter size and pooling size*
-![Fully-connected output, 1 fully-connected hidden layer](fully_connected.png)
+![Fully-connected output, 1 fully-connected hidden layer](figures/fully_connected.png)
 
-![Convolutional layer with max-pool and fully-connected output](convolutional_layer.png)
+![Convolutional layer with max-pool and fully-connected output](figures/convolutional_layer.png)
 
 ---
 ## Customization
