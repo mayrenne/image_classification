@@ -22,7 +22,7 @@ This repository contains a **single Python script** that handles:
 - Hyperparameter tuning (random search, grid search)  
 - Model evaluation, plotting, and visualization 
 --- 
-## Results for Top 3 configurations for Different Network Architectures 
+## Results for Top 3 Configurations for Different Network Architectures 
 *Validation and training accuracy over number of filters, filter size and pooling size*
 ### Fully-connected output, 1 fully-connected hidden layer
 ![Fully-connected output, 1 fully-connected hidden layer](figures/fully_connected.png)
