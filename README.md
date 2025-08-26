@@ -26,7 +26,7 @@ This repository contains a **single Python script** that handles:
 *Validation and training accuracy over number of filters, filter size and pooling size*
 ![Fully-connected output, 1 fully-connected hidden layer](fully_connected.png)
 
-![Convolutional layer with max-pool and fully-connected output](convolutional.png)
+![Convolutional layer with max-pool and fully-connected output](convolutional_layer.png)
 
 ---
 ## Customization
